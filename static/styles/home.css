@@ -1,0 +1,15 @@
+.heading{
+padding-left: 41%;}
+.main{
+    background-color: rgb(255, 255, 255);
+}
+.body1{
+    margin-left: 10rem;
+    margin-right: 10rem;
+    border: 6px;
+    border-color: black;
+    background-color: rgb(195, 195, 255);
+}
+.compent{
+    padding: 5px;
+}
